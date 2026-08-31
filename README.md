@@ -11,7 +11,12 @@ doubling the previous record, computed in under nine hours on one desktop
 machine with rigorous interval arithmetic: every printed digit is certified,
 not estimated.
 → [khinchin-fast](https://github.com/reza-ghazi/khinchin-fast) ·
+[read the write-up](https://reza-ghazi.github.io/khinchin-fast/) ·
+[on Medium](https://medium.com/@itprofessional/two-million-digits-of-khinchins-constant-8daeaa587a5e) ·
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22134905.svg)](https://doi.org/10.5281/zenodo.22134905)
+
+Now listed in the links of its OEIS entry,
+[A002210](https://oeis.org/A002210).
 
 ## What I work on
 
