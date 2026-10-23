@@ -35,4 +35,5 @@ polished projects are published here.
 
 [reza@brightarcadia.com](mailto:reza@brightarcadia.com) ·
 [ORCID 0009-0009-3286-4675](https://orcid.org/0009-0009-3286-4675) ·
-[X @rezakghazi](https://x.com/rezakghazi)
+[X @rezakghazi](https://x.com/rezakghazi) ·
+[YouTube · Bright Arcadia](https://www.youtube.com/@BrightArcadia)
